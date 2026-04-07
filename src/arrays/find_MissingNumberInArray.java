@@ -23,6 +23,7 @@ public class find_MissingNumberInArray
 		}
 		System.out.println("Sum of elements including missing number :"+sum1);
 		System.out.println("Missing Number is :"+(sum1-sum));
+		System.out.println("Modifications");
 
 
 
